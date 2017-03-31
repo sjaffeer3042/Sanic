@@ -25,8 +25,6 @@ Welcome to my game Sanic!!! This game is a sidescroller game, it is played with 
 
 <p><a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Pygame wheel file</a></p>
 
-</body>
-</html>
 <!DOCTYPE html>
 <html>
 <body>
@@ -34,8 +32,7 @@ Welcome to my game Sanic!!! This game is a sidescroller game, it is played with 
 <p><a href="https://youtu.be/_GikMdhAhv0
 OPEN
 
-Add class comment…
-">How to Install pygame</a></p>
+">How To install Pygame</a></p>
 
 </body>
 </html>
