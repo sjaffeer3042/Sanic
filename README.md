@@ -23,7 +23,7 @@ Welcome to my game Sanic!!! This game is a sidescroller game, it is played with 
 <html>
 <body>
 
-<p><a href="\http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Pygame wheel file</a></p>
+<p><a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Pygame wheel file</a></p>
 
 </body>
 </html>
