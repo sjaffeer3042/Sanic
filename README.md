@@ -29,10 +29,9 @@ Welcome to my game Sanic!!! This game is a sidescroller game, it is played with 
 <html>
 <body>
 
-<p><a href="https://youtu.be/_GikMdhAhv0
+<p><a href="https://youtu.be/_GikMdhAhv0">How To install Pygame</a></p>
 OPEN
 
-">How To install Pygame</a></p>
 
 </body>
 </html>
