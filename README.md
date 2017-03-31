@@ -11,3 +11,11 @@
 <h2 style="background-color:rgb(0,0,255)">
 Welcome to my game Sanic!!! This game is a sidescroller game, it is played with only the spacebar. The way to win the game is to reach a score of 1000 without getting hurt by the spikes or fire or your health will decrease and you will die.
 </h2>
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
+
+</body>
+</html>
